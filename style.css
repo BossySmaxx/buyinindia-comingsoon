@@ -63,7 +63,7 @@ header .heading h2 {
 
 .hero-main {
     width: 100%;
-    height: calc(100vh - 100px);
+    height: calc(100vh - 150px);
     position: relative;
     display: flex;
     flex-direction: column;
